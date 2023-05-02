@@ -1,4 +1,4 @@
-All input PDB chains, DSSP, FASTA, PSSM, and ESM2 files should be inside `input/` directory
+All input PDB chains, DSSP, FASTA, PSSM, MSA first row, and ESM-2 representation files should be inside `input/` directory
 
 All distance maps should be inside `distmaps/`
 
@@ -12,5 +12,5 @@ Target list: `input.list`
 
 `python genpssmto20feat.py  -i input -o tmp/ -t input.list`
 
-3 Run gen_preprocessed_node_5461features_new.py
+3. Run gen_preprocessed_node_5461features_new.py
 python gen_preprocessed_node_5461features_new.py -t input.list
