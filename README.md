@@ -20,8 +20,8 @@ Codebase for our Improved protein-nucleic binding site prediction appraoch, Equi
 
 3.) Download the trained models
 
-	- for protein-DNA binding site prediction, download EquiPNAS-DNA model [here](https://github.com/Bhattacharya-Lab/EquiPNAS/models/EquiPNAS-DNA/)
-	- for protein-RNA binding site prediction, download EquiPNAS-RNA model [here](models/EquiPNAS-RNA/)
+- for protein-DNA binding site prediction, download EquiPNAS-DNA model [here](models/EquiPNAS-DNA/)
+- for protein-RNA binding site prediction, download EquiPNAS-RNA model [here](models/EquiPNAS-RNA/)
 
 
 That's it! EquiPNAS is ready to be used.
