@@ -13,4 +13,5 @@ Target list: `input.list`
 `python genpssmto20feat.py  -i input -o tmp/ -t input.list`
 
 3. Run gen_preprocessed_node_5461features_new.py
-python gen_preprocessed_node_5461features_new.py -t input.list
+
+`python gen_preprocessed_node_5461features_new.py -t input.list`
