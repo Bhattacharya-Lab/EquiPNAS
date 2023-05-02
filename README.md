@@ -4,7 +4,7 @@ by Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, and Deb
 
 [[bioRxiv](https://www.biorxiv.org/content/...)] [[pdf](https://www.biorxiv.org/content/....full.pdf)]
 
-Codebase for our Improved protein-nucleic binding site prediction appraoch, EquiPNAS.
+Codebase for our improved protein-nucleic binding site prediction appraoch, EquiPNAS.
 
 ![Workflow](./EquiPNAS.png)
 
@@ -20,8 +20,8 @@ Codebase for our Improved protein-nucleic binding site prediction appraoch, Equi
 
 3.) Download the trained models
 
-- for protein-DNA binding site prediction, download EquiPNAS-DNA model [here](models/EquiPNAS-DNA/)
-- for protein-RNA binding site prediction, download EquiPNAS-RNA model [here](models/EquiPNAS-RNA/)
+- For protein-DNA binding site prediction, download EquiPNAS-DNA model [here](models/EquiPNAS-DNA/)
+- For protein-RNA binding site prediction, download EquiPNAS-RNA model [here](models/EquiPNAS-RNA/)
 
 
 That's it! EquiPNAS is ready to be used.
