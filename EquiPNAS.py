@@ -75,7 +75,7 @@ def test_epoch(epoch, model, dataloader, PARS):
 
 
 def print_usage():
-    print("\nUsage: EquiPPIS.py [options]\n")
+    print("\nUsage: EquiPNAS.py [options]\n")
 
     print("Options:")
     print("  -h, --help            show this help message and exit")
