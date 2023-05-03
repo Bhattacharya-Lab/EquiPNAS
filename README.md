@@ -18,10 +18,10 @@ Codebase for our improved protein-nucleic binding site prediction appraoch, Equi
 
 `conda activate EquiPNAS`
 
-3.) Download the trained models
+3.) Download the trained models from [here](https://zenodo.org/record/7888985#.ZFHIVHbMK3A)
 
-- For protein-DNA binding site prediction, download EquiPNAS-DNA model [here](models/EquiPNAS-DNA/)
-- For protein-RNA binding site prediction, download EquiPNAS-RNA model [here](models/EquiPNAS-RNA/)
+- For protein-DNA binding site prediction, use models/EquiPNAS-DNA model 
+- For protein-RNA binding site prediction, use models/EquiPNAS-RNA model 
 
 
 That's it! EquiPNAS is ready to be used.
