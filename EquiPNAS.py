@@ -84,7 +84,7 @@ def print_usage():
     print("  --indir INDIR         Path to input data containing distance maps and input features (default 'datasets/DNA_test_129_Preprocessing_AlphaFold2/')")
     print("  --outdir OUTDIR       Prediction output directory")
     print("  --num_workers NUM_WORKERS")
-    print("                        Number of data loader workers")
+    print("                        Number of workers (default=4)")
 
 
 def main(PARS):
@@ -111,7 +111,7 @@ if __name__ == '__main__':
     parser.add_argument('--outdir', type=str, default='',
             help="Prediction output directory")
     parser.add_argument('--num_workers', type=int, default=4,
-            help="Number of data loader workers")
+            help="Number of workers (default=4)")
     PARS, _ = parser.parse_known_args()
 
     #basic input check
