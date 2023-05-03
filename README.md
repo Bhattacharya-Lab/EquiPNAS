@@ -51,7 +51,7 @@ Here is an example of running EquiPNAS:
 
 3.) Run `python EquiPNAS.py --model_state_dict models/EquiPNAS-DNA/E-l12-768.pt --indir Preprocessing/ --outdir output/`
 
-4.) The residue-level PPI site predictions are generated at `output/`. 
+4.) The residue-level protein-DNA or protein-RNA binding site predictions are generated at `output/`. 
 
 
 ## Datasets
