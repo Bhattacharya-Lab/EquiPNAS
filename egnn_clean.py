@@ -1,3 +1,9 @@
+##################################################################################################################
+# Obtained from https://github.com/vgsatorras/egnn/blob/main/models/egnn_clean/egnn_clean.py
+# Credit: 'E(n) Equivariant Graph Neural Networks' by Victor Garcia Satorras, Emiel Hogeboom, Max Welling
+#          Proceedings of the 38th International Conference on Machine Learning, PMLR 139:9323-9332, 2021.
+##################################################################################################################
+
 from torch import nn
 import torch
 
