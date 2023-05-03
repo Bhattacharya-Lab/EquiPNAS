@@ -1,4 +1,4 @@
-All input PDB chains, DSSP, FASTA, PSSM, MSA first row, and ESM-2 representation files should be inside `input/` directory
+All input PDB chains, FASTA, [DSSP](../input_details/DSSP_readme.md), PSSM, MSA first row, and ESM-2 representation files should be inside `input/` directory
 
 All distance maps should be inside `distmaps/`
 
