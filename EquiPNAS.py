@@ -81,7 +81,7 @@ def print_usage():
     print("  -h, --help            show this help message and exit")
     print("  --model_state_dict MODEL_STATE_DICT")
     print("                        Saved model")
-    print("  --indir INDIR         Path to input data containing distance maps and input features (default 'datasets/DNA_test_129_Preprocessing_AlphaFold2/')")
+    print("  --indir INDIR         Path to input data containing distance maps and input features (default 'datasets/DNA_test_129_Preprocessing_using_AlphaFold2/')")
     print("  --outdir OUTDIR       Prediction output directory")
     print("  --num_workers NUM_WORKERS")
     print("                        Number of workers (default=4)")
@@ -106,8 +106,8 @@ if __name__ == '__main__':
 
     parser.add_argument('--model_state_dict', type=str, default=None,
             help="Saved model")
-    parser.add_argument('--indir', type=str, default='datasets/DNA_test_129_Preprocessing_AlphaFold2/',
-            help="Path to input data containing distance maps and input features (default 'datasets/DNA_test_129_Preprocessing_AlphaFold2/')")
+    parser.add_argument('--indir', type=str, default='datasets/DNA_test_129_Preprocessing_using_AlphaFold2/',
+            help="Path to input data containing distance maps and input features (default 'datasets/DNA_test_129_Preprocessing_using_AlphaFold2/')")
     parser.add_argument('--outdir', type=str, default='',
             help="Prediction output directory")
     parser.add_argument('--num_workers', type=int, default=4,
