@@ -56,5 +56,5 @@ Here is an example of running EquiPNAS:
 
 ## Datasets
 
-All the benchmarking datasets can be found [here]()
+All the benchmarking datasets can be found [here](https://zenodo.org/record/7897020#.ZFQYbnbMK3A)
  
