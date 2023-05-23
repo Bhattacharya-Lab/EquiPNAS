@@ -12,7 +12,7 @@ Codebase for our improved protein-nucleic binding site prediction appraoch, Equi
 
 1.) We recommend conda virtual environment to install dependencies for EquiPNAS. The following command will create a virtual environment named 'EquiPNAS'
 
-`conda env create -f EquiPNAS_environment.yml`
+`conda env create -f EquiPNAS_env.yml`
 
 2.) Then activate the virtual environment
 
