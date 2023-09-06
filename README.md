@@ -1,4 +1,4 @@
-# EquiPNAS: Improved Protein-nucleic Acid Binding Site Prediction Using Pretrained Protein Language Model and Equivariant Deep Graph Learning
+## EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks
 
 by Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, and Debswapna Bhattacharya
 
