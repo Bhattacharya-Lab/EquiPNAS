@@ -2,7 +2,7 @@
 
 by Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, and Debswapna Bhattacharya
 
-[[bioRxiv](https://www.biorxiv.org/content/...)] [[pdf](https://www.biorxiv.org/content/....full.pdf)]
+[[bioRxiv]()] [[pdf]()]
 
 Codebase for our improved protein-nucleic binding site prediction appraoch, EquiPNAS.
 
