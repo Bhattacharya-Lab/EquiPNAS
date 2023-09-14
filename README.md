@@ -6,7 +6,7 @@ by Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, and Deb
 
 Codebase for our improved protein-nucleic binding site prediction appraoch, EquiPNAS.
 
-![Workflow](./EquiPNAS.png)
+![Workflow](./workflow.png)
 
 ## Installation
 
