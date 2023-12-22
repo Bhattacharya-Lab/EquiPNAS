@@ -115,7 +115,7 @@ For protein-DNA binding site prediction, we obtain the test targets for `Test_12
 
   #### Test_129
 
-  ##### Prediction using [AlphaFold2](https://github.com/google-deepmind/alphafold) predicted structures 
+  ##### Prediction using AlphaFold2 predicted structural models 
 
   - Download the test list, data, and features from [here](https://zenodo.org/records/10407858)
 
@@ -131,7 +131,7 @@ For protein-DNA binding site prediction, we obtain the test targets for `Test_12
 
          python EquiPNAS.py --model_state_dict models/EquiPNAS-DNA/E-l12-768.pt --indir DNA_test_129_Preprocessing_using_AlphaFold2/ --outdir outputs/DNA_test_129_predictions_using_AlphaFold2/
 
-  ##### Prediction using [native](https://www.rcsb.org/) structures 
+  ##### Prediction using experimental structures
 
   - Download the test list, data, and features from [here](https://zenodo.org/records/10407897)
 
@@ -150,7 +150,7 @@ For protein-DNA binding site prediction, we obtain the test targets for `Test_12
 
   #### Test_181
 
-  ##### Prediction using [AlphaFold2](https://github.com/google-deepmind/alphafold) predicted structures 
+  ##### Prediction using AlphaFold2 predicted structural models
 
   - Download the test list, data, and features from [here](https://zenodo.org/records/10413105)
 
@@ -166,7 +166,7 @@ For protein-DNA binding site prediction, we obtain the test targets for `Test_12
 
          python EquiPNAS.py --model_state_dict models/EquiPNAS-DNA/E-l12-768.pt --indir DNA_test_181_Preprocessing_using_AlphaFold2/ --outdir outputs/DNA_test_181_predictions_using_AlphaFold2/
 
-  ##### Prediction using [native](https://www.rcsb.org/) structures 
+  ##### Prediction using experimental structures
 
   - Download the test list, data, and features from [here](https://zenodo.org/records/10413134)
 
@@ -188,7 +188,7 @@ For protein-DNA binding site prediction, we obtain the test targets for `Test_12
 
   #### Test_117
 
-  ##### Prediction using [AlphaFold2](https://github.com/google-deepmind/alphafold) predicted structures 
+  ##### Prediction using AlphaFold2 predicted structural models
 
   - Download the test list, data, and features from [here](https://zenodo.org/records/10414557)
 
@@ -204,7 +204,7 @@ For protein-DNA binding site prediction, we obtain the test targets for `Test_12
 
          python EquiPNAS.py --model_state_dict models/EquiPNAS-RNA/E-l12-768.pt --indir RNA_test_117_Preprocessing_using_AlphaFold2/ --outdir outputs/RNA_test_117_predictions_using_AlphaFold2/
 
-  ##### Prediction using [native](https://www.rcsb.org/) structures 
+  ##### Prediction using experimental structures
 
   - Download the test list, data, and features from [here](https://zenodo.org/records/10414586)
 
